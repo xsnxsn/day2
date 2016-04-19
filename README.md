@@ -1,2 +1,2 @@
 # day2
-start to code in github
+personal website, record known programmer in China and record some javascript component which I have made.
